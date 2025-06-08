@@ -6,8 +6,8 @@
     "test": "node --test ./spec/css-spec.mjs"
   },
   "devDependencies": {
-    "cson": "^8.2.0",
+    "cson": "^8.4.0",
     "vscode-oniguruma": "^2.0.1",
-    "vscode-textmate": "^9.0.0"
+    "vscode-textmate": "^9.2.0"
   }
 }
